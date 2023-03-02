@@ -1,0 +1,7 @@
+Message.create(text: 'Hello There🙂')
+Message.create(text: 'Hi There🙂')
+Message.create(text: 'Salut✋🏼')
+Message.create(text: 'Buenos Dias😉')
+Message.create(text: 'Jambo🙂')
+Message.create(text: 'Hola🙃')
+Message.create(text: 'Muraho😁')
